@@ -45,7 +45,9 @@ Once you have followed the setup instructions, you can run the application and s
 ## Code Explanation
 
 **App.jsx**: This is the main component where product data is defined and passed down through the UserContext.
+
 **CartCard.jsx**: A functional component that displays the products and manages the cart's quantities and total amounts.
+
 **index.css**: Contains styles for the application, ensuring a visually appealing layout and responsive design.
 
 ## Development Process
